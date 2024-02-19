@@ -1,2 +1,2 @@
-# git
-this is the github practice for web development class
+# DSDP-Ecommerce
+The given project for group work
